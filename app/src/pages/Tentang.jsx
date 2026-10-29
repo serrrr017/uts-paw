@@ -9,13 +9,13 @@ export default function Tentang() {
     <section>
       <h1>Tentang</h1>
       <dl>
-        <dt>Sere Sri Rezeki Sinaga</dt>
+        <dt>Nama</dt>
         <dd>{nama}</dd>
-        <dt>124140150</dt>
+        <dt>NIM</dt>
         <dd>{nim}</dd>
-        <dt>RA</dt>
+        <dt>Kelas</dt>
         <dd>{kelas}</dd>
-        <dt>Rak Buku Pribadi</dt>
+        <dt>Tema</dt>
         <dd>{tema}</dd>
       </dl>
       <p>
