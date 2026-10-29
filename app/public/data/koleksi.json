@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Laskar Pelangi",
+    "kategori": "Fiksi",
+    "penulis": "Andrea Hinata",
+    "tahunTerbit": 2005,
+    "status": "Selesai Dibaca"
+  },
+  {
+    "id": "2",
+    "judul": "Laut Bercerita",
+    "kategori": "Fiksi",
+    "penulis": "Laila S. Chudori",
+    "tahunTerbit": 2017,
+    "status": "Selesai Dibaca"
+  },
+  {
+    "id": "3",
+    "judul": "Rumah Untuk Allie",
+    "kategori": "Fiksi",
+    "penulis": "Kritika Pursani",
+    "tahunTerbit": 2021,
+    "status": "Belum Dibaca"
+  },
+  {
+    "id": "4",
+    "judul": "Clean Code",
+    "kategori": "Teknologi",
+    "penulis": "Robert C. Martin",
+    "tahunTerbit": 2008,
+    "status": "Sedang Dibaca "
+  },
+  {
+    "id": "5",
+    "judul": "Learning Web Design",
+    "kategori": "Teknologi",
+    "penulis": "Jennifer Robbins",
+    "tahunTerbit": 2018,
+    "status": "Sedang Dibaca"
+  },
+  {
+    "id": "6",
+    "judul": "Bumi",
+    "kategori": "Fiksi",
+    "penulis": "Tere Liye",
+    "tahunTerbit": 2014,
+    "status": "Belum Dibaca"
+  },
+  {
+    "id": "7",
+    "judul": "You Do You: Discovering Yourself",
+    "kategori": "Pengembangan Diri",
+    "penulis": "Fellexandro Ruby",
+    "tahunTerbit": 2020,
+    "status": "Selesai Dibaca"
+  },
+  {
+    "id": "8",
+    "judul": "Filosofi Teras",
+    "kategori": "Pengembangan Diri",
+    "penulis": "Henty Manampiring",
+    "tahunTerbit": 2018,
+    "status": "Belum Dibaca"
+  },
+  {
+    "id": "9",
+    "judul": "Pengantar Teknologi",
+    "kategori": "Teknologi",
+    "penulis": "Buhori Muslim",
+    "tahunTerbit": 2017,
+    "status": "Sedang Dibaca"
+  },
+  {
+    "id": "10",
+    "judul": "Gadis Kretek",
+    "kategori": "Fiksi",
+    "penulis": "Ratih Kumala",
+    "tahunTerbit": 2012,
+    "status": "Selesai"
   }
 ]
